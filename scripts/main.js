@@ -18,15 +18,15 @@ else if (map === "mapbox") {
 		zoomOffset: -1
 	}).addTo(mymap);
 }
-
 //获取数据，并添加标识
-$.getJSON("lib/data/data.json", function(data) {
+$.getJSON("lib/data/data4.json", function(data) {
     data.forEach(element => {
         var name = element.name;
         var pos = element.position;
         if ("coordinate" in element) {
             var coordinate = element.coordinate;
-            L.marker(coordinate).addTo(mymap).bindPopup(name);
+            var show_html = element.show_html;
+            L.marker(coordinate).addTo(mymap).bindPopup(show_html, {max_Width:"auto"});
         }
     });
 });
@@ -47,9 +47,59 @@ $.getJSON("lib/data/data.json", function(data) {
 var popup = L.popup();
 
 function onMapClick(e) {
+    var t = [
+"<div>",
+"<h3>秦山核电站:已投入运营</h3>",
+"2022年1-3月运行情况：",
+"<table>",
+"    <tr>",
+"        <td>项目</td>",
+"        <td>核电厂</td>",
+"        <td>机组</td>",
+"        <td>装机容量（MWe）</td>",
+"        <td>发电量（亿千瓦时）</td>",
+"        <td>上网电量（亿千瓦时）</td>",
+"        <td>核电设备\n利用小时数</td>",
+"        <td>机组能力因子（%）</td>",
+"    </tr>",
+"    <tr>",
+"        <td>秦山核电站</td>",
+"        <td>秦山核电厂</td>",
+"        <td>1号机组</td>",
+"        <td>12</td>",
+"        <td>23</td>",
+"        <td>34</td>",
+"        <td>45</td>",
+"        <td>56</td>",
+"    </tr>",
+"    <tr>",
+"        <td>秦山核电站</td>",
+"        <td>秦山第二核电厂</td>",
+"        <td>1号机组</td>",
+"        <td>12</td>",
+"        <td>23</td>",
+"        <td>34</td>",
+"        <td>45</td>",
+"        <td>56</td>",
+"    </tr>",
+"    <tr>",
+"        <td>秦山核电站</td>",
+"        <td>秦山第二核电厂</td>",
+"        <td>2号机组</td>",
+"        <td>12</td>",
+"        <td>23</td>",
+"        <td>34</td>",
+"        <td>45</td>",
+"        <td>56</td>",
+"    </tr>",
+"</table>",
+"<div><div style=\"float: left;\"><a href=\"http://www.china-nea.cn/site/content/40689.html\">了解更多</a></div><div style=\"text-align: right;\">数据来源：<a href=\"http://www.china-nea.cn/site/content/40689.html\">中国核能行业协会</a></div></div>",
+"</div>",
+    ]
+    t = t.join("");
     popup
         .setLatLng(e.latlng)
-        .setContent("You clicked the map at " + e.latlng.toString())
+        .setContent("you click on " + e.latlng.toString())
         .openOn(mymap);
 }
 

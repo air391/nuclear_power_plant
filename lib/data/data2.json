@@ -1,0 +1,442 @@
+[
+    {
+        "name": "秦山核电站",
+        "coordinate": [
+            30.431852,
+            120.917412
+        ],
+        "address": "浙江省嘉兴市海盐县秦山镇",
+        "url": "https://baike.baidu.com/item/秦山核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/秦山核电站\">秦山核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "大亚湾核电站",
+        "coordinate": [
+            22.592836,
+            114.530571
+        ],
+        "address": "广东省深圳市龙岗区大亚湾核电站",
+        "url": "https://baike.baidu.com/item/大亚湾核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/大亚湾核电站\">大亚湾核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "岭澳核电站",
+        "coordinate": [
+            22.620872,
+            114.571297
+        ],
+        "address": "广东省深圳市龙岗区岭澳",
+        "url": "https://baike.baidu.com/item/岭澳核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/岭澳核电站\">岭澳核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "田湾核电站",
+        "coordinate": [
+            27.102898,
+            110.001877
+        ],
+        "address": "湖南省怀化市洪江市田湾",
+        "url": "https://baike.baidu.com/item/田湾核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/田湾核电站\">田湾核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "红沿河核电站",
+        "coordinate": [
+            39.761731,
+            121.49264
+        ],
+        "address": "辽宁省大连市瓦房店市红沿河",
+        "url": "https://baike.baidu.com/item/红沿河核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/红沿河核电站\">红沿河核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "宁德核电站",
+        "coordinate": [
+            27.338689,
+            120.21583
+        ],
+        "address": "福建省宁德市福鼎市宁德核电",
+        "url": "https://baike.baidu.com/item/宁德核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/宁德核电站\">宁德核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "阳江核电站",
+        "coordinate": [
+            21.710704,
+            111.809259
+        ],
+        "address": "广东省阳江市江城区阳江",
+        "url": "https://baike.baidu.com/item/阳江核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/阳江核电站\">阳江核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "方家山核电站",
+        "coordinate": [
+            30.113861,
+            122.01989
+        ],
+        "address": "浙江省舟山市定海区方家",
+        "url": "https://baike.baidu.com/item/方家山核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/方家山核电站\">方家山核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "福清核电站",
+        "coordinate": [
+            25.447262,
+            119.456623
+        ],
+        "address": "福建省福州市福清市福清核电站",
+        "url": "https://baike.baidu.com/item/福清核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/福清核电站\">福清核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "昌江核电站",
+        "coordinate": [
+            19.298139,
+            109.055783
+        ],
+        "address": "海南省昌江黎族自治县",
+        "url": "https://baike.baidu.com/item/昌江核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/昌江核电站\">昌江核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "防城港核电站",
+        "coordinate": [
+            21.673375,
+            108.567551
+        ],
+        "address": "广西壮族自治区防城港市港口区防城港核电站",
+        "url": "https://baike.baidu.com/item/防城港核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/防城港核电站\">防城港核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "三门核电站",
+        "coordinate": [
+            29.101364,
+            121.633447
+        ],
+        "address": "浙江省台州市三门县核电站",
+        "url": "https://baike.baidu.com/item/三门核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/三门核电站\">三门核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "海阳核电站",
+        "coordinate": [
+            36.714891,
+            121.384012
+        ],
+        "address": "山东省烟台市海阳市海阳核电站",
+        "url": "https://baike.baidu.com/item/海阳核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/海阳核电站\">海阳核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "台山核电站",
+        "coordinate": [
+            21.883206,
+            112.966984
+        ],
+        "address": "广东省江门市台山市台山核电站",
+        "url": "https://baike.baidu.com/item/台山核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/台山核电站\">台山核电站</a>",
+        "status": "已投入运营"
+    },
+    {
+        "name": "石岛湾核电站",
+        "coordinate": [
+            36.889431,
+            122.428772
+        ],
+        "address": "山东省威海市荣成市石岛镇",
+        "url": "https://baike.baidu.com/item/石岛湾核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/石岛湾核电站\">石岛湾核电站</a>",
+        "status": "建设中"
+    },
+    {
+        "name": "陆丰核电站",
+        "coordinate": [
+            22.769275,
+            115.842
+        ],
+        "address": "广东省汕尾市陆丰市陆丰核电",
+        "url": "https://baike.baidu.com/item/陆丰核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/陆丰核电站\">陆丰核电站</a>",
+        "status": "建设中"
+    },
+    {
+        "name": "太平岭核电站",
+        "coordinate": [
+            21.674483,
+            108.548214
+        ],
+        "address": "广西壮族自治区防城港市港口区核电站(公交站)",
+        "url": "https://baike.baidu.com/item/太平岭核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/太平岭核电站\">太平岭核电站</a>",
+        "status": "建设中"
+    },
+    {
+        "name": "桃花江核电站",
+        "coordinate": [
+            31.752838,
+            117.217628
+        ],
+        "address": "安徽省合肥市蜀山区桃花镇",
+        "url": "https://baike.baidu.com/item/桃花江核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/桃花江核电站\">桃花江核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "咸宁核电站",
+        "coordinate": [
+            29.84135,
+            114.322601
+        ],
+        "address": "湖北省咸宁市",
+        "url": "https://baike.baidu.com/item/咸宁核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/咸宁核电站\">咸宁核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "彭泽核电站",
+        "coordinate": [
+            29.877404,
+            116.563858
+        ],
+        "address": "江西省九江市彭泽县",
+        "url": "https://baike.baidu.com/item/彭泽核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/彭泽核电站\">彭泽核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "徐大堡核电站",
+        "coordinate": [
+            29.967524,
+            114.910767
+        ],
+        "address": "湖北省黄石市大冶市徐大",
+        "url": "https://baike.baidu.com/item/徐大堡核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/徐大堡核电站\">徐大堡核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "涪陵核电站",
+        "coordinate": [
+            29.752475,
+            107.246521
+        ],
+        "address": "重庆市涪陵区",
+        "url": "https://baike.baidu.com/item/涪陵核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/涪陵核电站\">涪陵核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "海丰核电站",
+        "coordinate": [
+            22.971129,
+            115.333576
+        ],
+        "address": "广东省汕尾市海丰县海丰",
+        "url": "https://baike.baidu.com/item/海丰核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/海丰核电站\">海丰核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "三坝核电站",
+        "coordinate": [
+            29.667694,
+            107.767342
+        ],
+        "address": "重庆市丰都县三坝乡",
+        "url": "https://baike.baidu.com/item/三坝核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/三坝核电站\">三坝核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "龙游核电站",
+        "coordinate": [
+            29.032618,
+            119.169592
+        ],
+        "address": "浙江省衢州市龙游县龙游",
+        "url": "https://baike.baidu.com/item/龙游核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/龙游核电站\">龙游核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "东港核电站",
+        "coordinate": [
+            39.88031,
+            124.151665
+        ],
+        "address": "辽宁省丹东市东港市东港",
+        "url": "https://baike.baidu.com/item/东港核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/东港核电站\">东港核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "芜湖核电站",
+        "coordinate": [
+            31.352614,
+            118.433065
+        ],
+        "address": "安徽省芜湖市",
+        "url": "https://baike.baidu.com/item/芜湖核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/芜湖核电站\">芜湖核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "南阳核电站",
+        "coordinate": [
+            33.002384,
+            112.573867
+        ],
+        "address": "河南省南阳市宛城区南阳",
+        "url": "https://baike.baidu.com/item/南阳核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/南阳核电站\">南阳核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "小墨山核电站",
+        "coordinate": [
+            29.726509,
+            112.837692
+        ],
+        "address": "湖南省岳阳市华容县小墨山",
+        "url": "https://baike.baidu.com/item/小墨山核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/小墨山核电站\">小墨山核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "靖宇核电站",
+        "coordinate": [
+            42.3459,
+            126.785818
+        ],
+        "address": "吉林省白山市靖宇县靖宇",
+        "url": "https://baike.baidu.com/item/靖宇核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/靖宇核电站\">靖宇核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "吉阳核电站",
+        "coordinate": [
+            18.28146,
+            109.578238
+        ],
+        "address": "海南省三亚市吉阳区",
+        "url": "https://baike.baidu.com/item/吉阳核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/吉阳核电站\">吉阳核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "漳州核电站",
+        "coordinate": [
+            24.515297,
+            117.647298
+        ],
+        "address": "福建省漳州市",
+        "url": "https://baike.baidu.com/item/漳州核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/漳州核电站\">漳州核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "三明核电站",
+        "coordinate": [
+            26.270701,
+            117.638869
+        ],
+        "address": "福建省三明市梅列区三明核电",
+        "url": "https://baike.baidu.com/item/三明核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/三明核电站\">三明核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "揭阳核电站",
+        "coordinate": [
+            23.460242,
+            116.200582
+        ],
+        "address": "广东省揭阳市普宁市揭阳",
+        "url": "https://baike.baidu.com/item/揭阳核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/揭阳核电站\">揭阳核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "韶关核电站",
+        "coordinate": [
+            24.801321,
+            113.591545
+        ],
+        "address": "广东省韶关市",
+        "url": "https://baike.baidu.com/item/韶关核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/韶关核电站\">韶关核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "佳木斯核电站",
+        "coordinate": [
+            46.799922,
+            130.318917
+        ],
+        "address": "黑龙江省佳木斯市",
+        "url": "https://baike.baidu.com/item/佳木斯核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/佳木斯核电站\">佳木斯核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "苍南核电站",
+        "coordinate": [
+            27.511803,
+            120.436681
+        ],
+        "address": "浙江省温州市苍南县苍南核电",
+        "url": "https://baike.baidu.com/item/苍南核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/苍南核电站\">苍南核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "松滋核电站",
+        "coordinate": [
+            30.174717,
+            111.756455
+        ],
+        "address": "湖北省荆州市松滋市",
+        "url": "https://baike.baidu.com/item/松滋核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/松滋核电站\">松滋核电站</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "烟家山核电",
+        "coordinate": [
+            28.318604,
+            116.648659
+        ],
+        "address": "江西省抚州市东乡县烟家",
+        "url": "https://baike.baidu.com/item/烟家山核电",
+        "show_html": "<a href=\"https://baike.baidu.com/item/烟家山核电\">烟家山核电</a>",
+        "status": "确认筹建"
+    },
+    {
+        "name": "肇庆核电站",
+        "coordinate": [
+            23.047747,
+            112.465245
+        ],
+        "address": "广东省肇庆市",
+        "url": "https://baike.baidu.com/item/肇庆核电站",
+        "show_html": "<a href=\"https://baike.baidu.com/item/肇庆核电站\">肇庆核电站</a>",
+        "status": "确认筹建"
+    }
+]
